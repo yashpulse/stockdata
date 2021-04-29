@@ -1,0 +1,2975 @@
+{
+    "BANKNIFTY": {
+        "expiry": [
+            {
+                "id": "W",
+                "text": "Weekly"
+            },
+            {
+                "id": "W1",
+                "text": "Weekly + 1"
+            },
+            {
+                "id": "W2",
+                "text": "Weekly + 2"
+            },
+            {
+                "id": "W3",
+                "text": "Weekly + 3"
+            },
+            {
+                "id": "W4",
+                "text": "Weekly + 4"
+            },
+            {
+                "id": "W5",
+                "text": "Weekly + 5"
+            },
+            {
+                "id": "W6",
+                "text": "Weekly + 6"
+            },
+            {
+                "id": "W7",
+                "text": "Weekly + 7"
+            },
+            {
+                "id": "W8",
+                "text": "Weekly + 8"
+            },
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromM": "2013-01-01",
+        "fromW": "2016-05-27",
+        "lotsize": 25
+    },
+    "NIFTY": {
+        "expiry": [
+            {
+                "id": "W",
+                "text": "Weekly"
+            },
+            {
+                "id": "W1",
+                "text": "Weekly + 1"
+            },
+            {
+                "id": "W2",
+                "text": "Weekly + 2"
+            },
+            {
+                "id": "W3",
+                "text": "Weekly + 3"
+            },
+            {
+                "id": "W4",
+                "text": "Weekly + 4"
+            },
+            {
+                "id": "W5",
+                "text": "Weekly + 5"
+            },
+            {
+                "id": "W6",
+                "text": "Weekly + 6"
+            },
+            {
+                "id": "W7",
+                "text": "Weekly + 7"
+            },
+            {
+                "id": "W8",
+                "text": "Weekly + 8"
+            },
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromM": "2013-01-01",
+        "fromW": "2019-02-11",
+        "lotsize": 75
+    },
+    "FINNIFTY": {
+        "expiry": [
+            {
+                "id": "W",
+                "text": "Weekly"
+            },
+            {
+                "id": "W1",
+                "text": "Weekly + 1"
+            },
+            {
+                "id": "W2",
+                "text": "Weekly + 2"
+            },
+            {
+                "id": "W3",
+                "text": "Weekly + 3"
+            },
+            {
+                "id": "W4",
+                "text": "Weekly + 4"
+            },
+            {
+                "id": "W5",
+                "text": "Weekly + 5"
+            },
+            {
+                "id": "W6",
+                "text": "Weekly + 6"
+            },
+            {
+                "id": "W7",
+                "text": "Weekly + 7"
+            },
+            {
+                "id": "W8",
+                "text": "Weekly + 8"
+            },
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromM": "2021-01-11",
+        "fromW": "2021-01-11",
+        "lotsize": 40
+    },
+    "ICICIBANK": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 1375
+    },
+    "DRREDDY": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 125
+    },
+    "INDUSTOWER": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2020-12-18",
+        "lotsize": 2800
+    },
+    "MOTHERSUMI": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2014-09-10",
+        "lotsize": 7000
+    },
+    "HDFC": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 300
+    },
+    "AUROPHARMA": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 650
+    },
+    "PETRONET": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 3000
+    },
+    "EXIDEIND": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 3600
+    },
+    "CHOLAFIN": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2017-04-28",
+        "lotsize": 2500
+    },
+    "BHARATFORG": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 1500
+    },
+    "SAIL": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 19000
+    },
+    "MFSL": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2017-03-31",
+        "lotsize": 1300
+    },
+    "INDUSINDBK": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 900
+    },
+    "LUPIN": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 850
+    },
+    "JINDALSTEL": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 5000
+    },
+    "NESTLEIND": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2017-04-28",
+        "lotsize": 50
+    },
+    "RBLBANK": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2017-05-26",
+        "lotsize": 2900
+    },
+    "AMARAJABAT": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2015-05-29",
+        "lotsize": 1000
+    },
+    "COALINDIA": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 4200
+    },
+    "DEEPAKNTR": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2021-02-26",
+        "lotsize": 500
+    },
+    "BHARTIARTL": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 1851
+    },
+    "SBIN": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 3000
+    },
+    "GLENMARK": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-10-03",
+        "lotsize": 1150
+    },
+    "HINDALCO": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 4300
+    },
+    "DABUR": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 1250
+    },
+    "NTPC": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 5700
+    },
+    "AMBUJACEM": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 3000
+    },
+    "PIDILITIND": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2015-05-29",
+        "lotsize": 500
+    },
+    "EICHERMOT": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2014-09-10",
+        "lotsize": 350
+    },
+    "ESCORTS": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2017-03-31",
+        "lotsize": 550
+    },
+    "ICICIPRULI": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2017-06-30",
+        "lotsize": 1500
+    },
+    "M&MFIN": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-12-27",
+        "lotsize": 4000
+    },
+    "LICHSGFIN": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 2000
+    },
+    "TATAPOWER": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 13500
+    },
+    "AXISBANK": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 1200
+    },
+    "UBL": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-10-03",
+        "lotsize": 700
+    },
+    "PAGEIND": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2015-05-29",
+        "lotsize": 30
+    },
+    "NMDC": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 6700
+    },
+    "BIOCON": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 2300
+    },
+    "UPL": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-10-23",
+        "lotsize": 1300
+    },
+    "BANDHANBNK": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2020-02-28",
+        "lotsize": 1800
+    },
+    "TVSMOTOR": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2014-09-10",
+        "lotsize": 1400
+    },
+    "CUMMINSIND": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2016-02-26",
+        "lotsize": 1200
+    },
+    "BHEL": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 21000
+    },
+    "ULTRACEMCO": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 200
+    },
+    "AARTIIND": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2021-01-01",
+        "lotsize": 425
+    },
+    "MANAPPURAM": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2017-07-03",
+        "lotsize": 6000
+    },
+    "INFY": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 600
+    },
+    "JUBLFOOD": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 250
+    },
+    "DIVISLAB": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 200
+    },
+    "BOSCHLTD": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2014-11-28",
+        "lotsize": 50
+    },
+    "LTTS": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2021-02-26",
+        "lotsize": 200
+    },
+    "CADILAHC": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2015-09-28",
+        "lotsize": 2200
+    },
+    "MGL": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2017-04-28",
+        "lotsize": 600
+    },
+    "LALPATHLAB": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2021-01-01",
+        "lotsize": 250
+    },
+    "IGL": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 1375
+    },
+    "MUTHOOTFIN": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2017-03-31",
+        "lotsize": 750
+    },
+    "BEL": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2015-05-29",
+        "lotsize": 7600
+    },
+    "HCLTECH": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 700
+    },
+    "BERGEPAINT": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2017-04-28",
+        "lotsize": 1100
+    },
+    "TRENT": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2021-02-26",
+        "lotsize": 725
+    },
+    "LTI": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2021-02-26",
+        "lotsize": 150
+    },
+    "POWERGRID": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 4000
+    },
+    "BANKBARODA": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 11700
+    },
+    "IRCTC": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2021-02-26",
+        "lotsize": 325
+    },
+    "TITAN": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 750
+    },
+    "NATIONALUM": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2017-05-26",
+        "lotsize": 17000
+    },
+    "CIPLA": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 1300
+    },
+    "HEROMOTOCO": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 300
+    },
+    "MARUTI": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 100
+    },
+    "JSWSTEEL": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 2700
+    },
+    "BPCL": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 1800
+    },
+    "ALKEM": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2021-02-26",
+        "lotsize": 200
+    },
+    "ASHOKLEY": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 9000
+    },
+    "MARICO": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2015-09-28",
+        "lotsize": 2000
+    },
+    "MINDTREE": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2014-09-10",
+        "lotsize": 800
+    },
+    "GAIL": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 6100
+    },
+    "BRITANNIA": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2015-05-29",
+        "lotsize": 200
+    },
+    "ACC": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 500
+    },
+    "L&TFH": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2014-03-13",
+        "lotsize": 8924
+    },
+    "ASIANPAINT": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 300
+    },
+    "PIIND": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2021-02-26",
+        "lotsize": 250
+    },
+    "SUNTV": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 1500
+    },
+    "GRASIM": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 950
+    },
+    "IDFCFIRSTB": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2019-01-16",
+        "lotsize": 19000
+    },
+    "HDFCLIFE": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2020-02-28",
+        "lotsize": 1100
+    },
+    "IBULHSGFIN": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2014-11-28",
+        "lotsize": 3100
+    },
+    "GODREJCP": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2016-01-01",
+        "lotsize": 1000
+    },
+    "SUNPHARMA": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 1400
+    },
+    "PNB": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 16000
+    },
+    "BAJAJFINSV": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2017-04-28",
+        "lotsize": 125
+    },
+    "TATACHEM": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 2000
+    },
+    "ADANIPORTS": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 2500
+    },
+    "ZEEL": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 3000
+    },
+    "APOLLOHOSP": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-12-27",
+        "lotsize": 500
+    },
+    "KOTAKBANK": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 400
+    },
+    "TORNTPHARM": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2016-01-01",
+        "lotsize": 250
+    },
+    "VEDL": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2015-05-07",
+        "lotsize": 6200
+    },
+    "PFIZER": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2021-02-26",
+        "lotsize": 125
+    },
+    "MPHASIS": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2021-02-26",
+        "lotsize": 325
+    },
+    "GMRINFRA": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 22500
+    },
+    "BAJAJ-AUTO": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 250
+    },
+    "NAM-INDIA": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2021-02-26",
+        "lotsize": 1600
+    },
+    "RAMCOCEM": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2017-05-26",
+        "lotsize": 850
+    },
+    "HDFCBANK": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 550
+    },
+    "SRTRANSFIN": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 800
+    },
+    "DLF": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 3300
+    },
+    "MCDOWELL-N": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 1250
+    },
+    "APLLTD": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2021-02-26",
+        "lotsize": 550
+    },
+    "SRF": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2015-05-29",
+        "lotsize": 125
+    },
+    "COLPAL": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 700
+    },
+    "PVR": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2017-03-31",
+        "lotsize": 407
+    },
+    "HAVELLS": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 1000
+    },
+    "ITC": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 3200
+    },
+    "SHREECEM": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2017-03-31",
+        "lotsize": 50
+    },
+    "TATAMOTORS": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 5700
+    },
+    "NAUKRI": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2020-02-28",
+        "lotsize": 250
+    },
+    "CUB": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2021-02-26",
+        "lotsize": 3100
+    },
+    "CONCOR": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2016-01-01",
+        "lotsize": 1563
+    },
+    "VOLTAS": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 1000
+    },
+    "AUBANK": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2021-02-26",
+        "lotsize": 500
+    },
+    "ICICIGI": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2020-10-30",
+        "lotsize": 425
+    },
+    "GRANULES": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2016-02-26",
+        "lotsize": 1550
+    },
+    "HINDPETRO": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 2700
+    },
+    "LT": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 575
+    },
+    "GUJGASLTD": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2021-02-26",
+        "lotsize": 1250
+    },
+    "BAJFINANCE": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2015-05-29",
+        "lotsize": 250
+    },
+    "ADANIENT": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 2000
+    },
+    "TECHM": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 1200
+    },
+    "SIEMENS": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 550
+    },
+    "NAVINFLUOR": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2021-02-26",
+        "lotsize": 225
+    },
+    "PEL": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2017-03-31",
+        "lotsize": 550
+    },
+    "WIPRO": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 3200
+    },
+    "CANBK": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 5400
+    },
+    "IOC": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 6500
+    },
+    "M&M": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 1400
+    },
+    "COFORGE": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2020-08-20",
+        "lotsize": 375
+    },
+    "TORNTPOWER": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2016-09-30",
+        "lotsize": 3000
+    },
+    "ONGC": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 7700
+    },
+    "TATACONSUM": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2020-02-27",
+        "lotsize": 1350
+    },
+    "INDIGO": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2017-03-31",
+        "lotsize": 500
+    },
+    "PFC": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 6200
+    },
+    "BALKRISIND": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2017-04-28",
+        "lotsize": 400
+    },
+    "RELIANCE": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 250
+    },
+    "HDFCAMC": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2021-01-01",
+        "lotsize": 200
+    },
+    "TATASTEEL": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 1700
+    },
+    "SBILIFE": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2020-05-04",
+        "lotsize": 750
+    },
+    "HINDUNILVR": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 300
+    },
+    "APOLLOTYRE": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 5000
+    },
+    "TCS": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 300
+    },
+    "RECLTD": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 6000
+    },
+    "FEDERALBNK": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 10000
+    },
+    "BATAINDIA": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 550
+    },
+    "GODREJPROP": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2020-03-27",
+        "lotsize": 650
+    },
+    "MRF": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 10
+    },
+    "IDEA": {
+        "expiry": [
+            {
+                "id": "M",
+                "text": "Monthly"
+            },
+            {
+                "id": "M1",
+                "text": "Monthly + 1"
+            },
+            {
+                "id": "M2",
+                "text": "Monthly + 2"
+            }
+        ],
+        "fromW": "2013-01-01",
+        "lotsize": 70000
+    }
+}
